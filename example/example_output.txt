@@ -1,0 +1,14 @@
+warning: Use JDK 8 or JDK 11 to run the Checker Framework.  You are using version 9.
+Tasks.java:10: warning: Incompatible return value: cannot cast from Null to Shared{java.lang.Object}
+            return null;
+            ^
+Tasks.java:10: warning: Incompatible return value: cannot cast from Null to Shared{java.lang.Object}
+            return null;
+            ^
+Tasks.java:16: warning: Incompatible return value: cannot cast from Null to Shared{java.lang.Object}
+        return null;
+        ^
+MapControlsAction.java:7: warning: Incompatible return value: cannot cast from Null to Shared{example.MapControlsAction.MapControls}
+        return null;
+        ^
+5 warnings
